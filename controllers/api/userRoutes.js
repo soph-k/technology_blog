@@ -3,7 +3,7 @@
 const router = require('express').Router();
 
 // Model 
-const  User  = require('../models/User');
+const  User  = require('../../models/User');
 
 
 //////////////////////// User Route ///////////////
